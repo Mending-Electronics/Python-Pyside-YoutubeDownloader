@@ -1,0 +1,118 @@
+/* QSS file for styling the application */
+QWidget {
+   font-family: Arial, sans-serif;
+   font-size: 14px;
+   color: #7f8c8d;
+}
+
+QPushButton {
+   background-color: #5dbfd4;
+   color: white;
+   border-radius: 5px;
+   padding: 5px;
+}
+
+QPushButton:checked {
+   background-color: #7DCBDC;
+}
+
+
+QPushButton:hover {
+   background-color: #7DCBDC;
+}
+
+
+QLineEdit {
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   padding: 5px;
+   margin-bottom: 15px;
+}
+
+QLabel {
+   font-weight: bold;
+   color: #7f8c8d;
+}
+
+QLabel#description_label {
+   font-size: 12px;
+   color: #7f8c8d;
+}
+
+QLabel#label {
+   font-size: 12px;
+   color: #7f8c8d;
+
+}
+
+QLabel#status_label {
+   font-size: 10px;
+   color: #7f8c8d;
+}
+
+QFrame#ButtonMenu {
+   width: 150px;
+   height: 400px;
+   position: absolute;
+   top: 0;
+   left: 0px;
+   spacing: 0px;
+   margin: 0px;
+   padding: 0px;
+}
+
+QPushButton#videoButton {
+   width: 150px;
+   height: 120px;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   margin: 0;
+   padding: 0;
+}
+
+
+QPushButton#audioButton {
+   width: 150px;
+   height: 120px;
+   position: absolute;
+   top: 100px;
+   left: 0px;
+   margin: 0;
+   padding: 0;
+}
+
+QPushButton#playlistVideoButton {
+   width: 150px;
+   height: 120px;
+   position: absolute;
+   top: 200px;
+   left: 0px;
+   margin: 0;
+   padding: 0;
+}
+
+QPushButton#playlistAudioButton {
+   width: 150px;
+   height: 120px;
+   position: absolute;
+   top: 300px;
+   left: 0;
+   margin: 0;
+   padding: 0;
+}
+
+QFrame#ButtonMenu > QPushButton {
+	width: 150px;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	border-radius: 0;
+	position: absolute;
+    left: 0;
+}
+
+QObject#url_input {
+   margin-top: 10px;
+   color: #64a2b0
+}
