@@ -47,14 +47,10 @@ This sample project demonstrates the conversion of an old Tkinter GUI interface 
 
 ## Light Mode
 
-![Light Mode](https://raw.githubusercontent.com/Mending-Electronics/Python-Pyside-YoutubeDownloader/main/captures/capture1.png "Light Mode")
-
 ![Light Mode](https://raw.githubusercontent.com/Mending-Electronics/Python-Pyside-YoutubeDownloader/main/captures/capture2.png "Light Mode")
 
 
 ## Dark Mode
-
-![Dark Mode](https://raw.githubusercontent.com/Mending-Electronics/Python-Pyside-YoutubeDownloader/main/captures/capture3.png "Dark Mode")
 
 ![Dark Mode](https://raw.githubusercontent.com/Mending-Electronics/Python-Pyside-YoutubeDownloader/main/captures/capture4.png "Dark Mode")
 
